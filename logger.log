@@ -1,0 +1,43 @@
+2018-01-24 17:16:43 INFO  HHH000412: Hibernate Core {5.2.10.Final}
+w2018-01-24 17:16:43 INFO  HHH000206: hibernate.properties not found
+w2018-01-24 17:16:43 INFO  HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+w2018-01-24 17:16:44 INFO  HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+w2018-01-24 17:16:47 INFO  HHH000397: Using ASTQueryTranslatorFactory
+w2018-01-24 17:17:23 INFO  HHH000412: Hibernate Core {5.2.10.Final}
+w2018-01-24 17:17:23 INFO  HHH000206: hibernate.properties not found
+w2018-01-24 17:17:23 INFO  HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+w2018-01-24 17:17:24 INFO  HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+w2018-01-24 17:17:27 INFO  HHH000397: Using ASTQueryTranslatorFactory
+w2018-01-24 17:17:27 INFO  @Before advice calling validate function info log message
+w2018-01-24 17:17:27 ERROR @Before advice calling validate function error log message
+w2018-01-24 17:17:27 INFO  @Before advice calling validate function info log message
+w2018-01-24 17:17:27 ERROR @Before advice calling validate function error log message
+w2018-01-24 17:29:49 INFO  HHH000412: Hibernate Core {5.2.10.Final}
+w2018-01-24 17:29:49 INFO  HHH000206: hibernate.properties not found
+w2018-01-24 17:29:49 INFO  HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+w2018-01-24 17:29:50 INFO  HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+w2018-01-24 17:29:54 INFO  user is  request is /api/authenticate
+w2018-01-24 17:29:54 INFO  user is  request is /api/authenticate
+w2018-01-24 17:31:10 INFO  HHH000412: Hibernate Core {5.2.10.Final}
+w2018-01-24 17:31:10 INFO  HHH000206: hibernate.properties not found
+w2018-01-24 17:31:10 INFO  HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+w2018-01-24 17:31:11 INFO  HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+w2018-01-24 17:31:15 INFO  user is  request is /api/authenticate
+w2018-01-24 17:31:15 INFO  user is  request is /api/authenticate
+w2018-01-24 17:41:15 INFO  HHH000412: Hibernate Core {5.2.10.Final}
+w2018-01-24 17:41:15 INFO  HHH000206: hibernate.properties not found
+w2018-01-24 17:41:15 INFO  HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+w2018-01-24 17:41:16 INFO  HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+w2018-01-24 17:41:19 INFO  user is John request is /api/authenticate
+w2018-01-24 17:41:19 INFO  user is  request is /api/authenticate
+w2018-01-24 17:41:19 INFO  user is John request is /api/authenticate
+w2018-01-24 17:41:19 INFO  user is John request is /api/authenticate
+w2018-01-24 17:42:12 INFO  HHH000412: Hibernate Core {5.2.10.Final}
+w2018-01-24 17:42:12 INFO  HHH000206: hibernate.properties not found
+w2018-01-24 17:42:13 INFO  HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+w2018-01-24 17:42:13 INFO  HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+w2018-01-24 17:42:17 INFO  user is John request is /api/authenticate
+w2018-01-24 17:42:17 INFO  user is  request is /api/authenticate
+w2018-01-24 17:42:17 INFO  user is John request is /api/authenticate
+w2018-01-24 17:42:17 INFO  user is John request is /api/authenticate
+w
